@@ -1,0 +1,172 @@
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.bloc1{
+    background-color: aquamarine;
+    text-align: center;
+    
+    width: 20%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-bottom: 2.5%;
+}
+.bloc2{
+    background-color: blue;
+    text-align: center;
+    width: 20%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-bottom: 2.5%;                
+}
+.bloc3{
+    background-color:blueviolet;
+    text-align: center;
+    width: 20%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-bottom: 2.5%;
+}
+.bloc4{
+    background-color: orange;  
+    text-align: center; 
+    width: 20%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-bottom: 2.5%;
+}
+.bloc5{
+    background-color: red;
+    text-align: center;
+    width: 20%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-bottom: 2.5%;
+}
+.bloc6{
+    background-color: aquamarine;
+    text-align: center;
+    width: 20%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-bottom: 2.5%;
+}
+.bloc7{
+    background-color: blue;
+    text-align: center;
+    width: 20%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-bottom: 2.5%;
+}
+.bloc8{
+    background-color: blueviolet;
+    text-align: center;
+    width: 20%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-bottom: 2.5%;
+}
+.bloc9{
+    background-color: orange;
+    text-align: center;
+    width: 20%;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+    margin-bottom: 2.5%;
+}
+section{min-height: 1279px;
+display: flex; 
+flex-wrap: wrap;
+}
+@media (min-width: 600px) and (max-width: 900px) {
+    .bloc1 {
+      width: 45%;
+    }
+}
+@media (min-width: 600px) and (max-width: 900px) {
+    .bloc2 {
+      width: 45%;
+    }
+}
+@media (min-width: 600px) and (max-width: 900px) {
+    .bloc3 {
+      width: 45%;
+    }
+}
+@media (min-width: 600px) and (max-width: 900px) {
+    .bloc4 {
+      width: 45%;
+    }
+}
+@media (min-width: 600px) and (max-width: 900px) {
+    .bloc5 {
+      width: 95%;
+    }
+}
+@media (min-width: 600px) and (max-width: 900px) {
+    .bloc6 {
+      width: 45%;
+    }
+}
+@media (min-width: 600px) and (max-width: 900px) {
+    .bloc7 {
+      width: 45%;
+    }
+}
+@media (min-width: 600px) and (max-width: 900px) {
+    .bloc8 {
+      width: 45%;
+    }
+}
+@media (min-width: 600px) and (max-width: 900px) {
+    .bloc9 {
+      width: 45%;
+    }
+}
+@media (max-width: 600px){
+    .bloc1{
+        width: 95%;
+    }
+}
+@media (max-width: 600px){
+    .bloc2{
+        width: 95%;
+    }
+}
+@media (max-width: 600px){
+    .bloc3{
+        width: 95%;
+    }
+}
+@media (max-width: 600px){
+    .bloc4{
+        width: 95%;
+    }
+}
+@media (max-width: 600px){
+    .bloc5{
+        width: 95%;
+    }
+}
+@media (max-width: 600px){
+    .bloc6{
+        width: 95%;
+    }
+}
+@media (max-width: 600px){
+    .bloc7{
+        width: 95%;
+    }
+}
+@media (max-width: 600px){
+    .bloc8{
+        width: 95%;
+    }
+}
+@media (max-width: 600px){
+    .bloc9{
+        width: 95%;
+    }
+}
